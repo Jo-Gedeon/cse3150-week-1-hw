@@ -8,8 +8,8 @@ using namespace std;
 
 int main()
 {
-    int x = 6;
-    int y = 7;
+    int a = 3;
+    int b = 4;
 
     cout << add(x, y) << endl;
     cout << multiply(x, y) << endl;
