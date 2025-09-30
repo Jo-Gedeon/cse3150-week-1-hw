@@ -1,6 +1,6 @@
 #ifndef A_M
 #define A_M
-#include "MathUtils.h"
+#include "math_utils.h"
 
 namespace AdvancedMath
 {
