@@ -1,4 +1,4 @@
-#include "MathUtils.h"
+#include "math_utils.h"
 #include <iostream>
 
 using namespace MathUtils;
