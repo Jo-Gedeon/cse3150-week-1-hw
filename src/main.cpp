@@ -1,6 +1,6 @@
 #include <iostream>
-#include "../include/MathUtils.h"
-#include "../include/AdvancedMath.h"
+#include "../include/math_utils.h"
+#include "../include/advanced_math.h"
 
 using namespace MathUtils;
 using namespace AdvancedMath;
