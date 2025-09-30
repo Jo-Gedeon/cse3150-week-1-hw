@@ -1,4 +1,4 @@
-#include "AdvancedMath.h"
+#include "advanced_math.h"
 #include <iostream>
 
 using namespace AdvancedMath;
