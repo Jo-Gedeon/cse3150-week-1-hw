@@ -1,6 +1,6 @@
 #include <iostream>
-#include "../include/math_utils.h"
-#include "../include/advanced_math.h"
+#include "MathUtils.h"
+#include "AdvancedMath.h"
 
 using namespace MathUtils;
 using namespace AdvancedMath;
@@ -8,12 +8,12 @@ using namespace std;
 
 int main()
 {
-    int a = 3;
-    int b = 4;
+    int x = 3;
+    int y = 4;
 
-cout << "a + b = " << add(a, b) << endl;
-cout << "a * b = " << multiply(a, b) << endl;
-cout << "square(a) = " << square(a) << endl;
+    cout << "a + b = " << add(x, y) << endl;
+    cout << "a * b = " << multiply(x, y) << endl;
+    cout << "square(a) = " << square(x) << endl;
 
     return 0;
 }
